@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Document Summarizer
 
-**ai-document-summarizer** is part of the Zion Tech Group app network (630+ apps).
+Extract key insights from long documents with AI-powered summarization.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-document-search](https://github.com/Zion-support/ai-document-search) · [ai-deep-research](https://github.com/Zion-support/ai-deep-research) · [zion-ai-doc-processor](https://github.com/Zion-support/zion-ai-doc-processor) · [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber)
 
-## Related apps
-- [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier) — Document classification and routing
-- [ai-document-search](https://github.com/Zion-support/ai-document-search) — Semantic document search
-- [zion-ai-doc-processor](https://github.com/Zion-support/zion-ai-doc-processor) — Document intelligence, OCR and extraction
-- [ai-deep-research](https://github.com/Zion-support/ai-deep-research) — Deep research engine
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
